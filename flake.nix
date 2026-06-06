@@ -20,6 +20,6 @@
         description = "Fast Kernel Library for ComfyUI with multiple compute backends";
       };
       pin = import ./pin.nix;
-      branches = false;
+      branches = true;
     };
 }
